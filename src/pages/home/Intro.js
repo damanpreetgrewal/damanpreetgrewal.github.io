@@ -9,12 +9,12 @@ function Intro(props) {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "1.6em" }}>
+            <h1 style={{ fontSize: "1.6em", color: theme.text }}>
               LET ME{" "}
               <span style={{ color: theme.accentColor }}> INTRODUCE </span>{" "}
               MYSELF
             </h1>
-            <p className="home-about-body">
+            <p className="home-about-body" style={{ color: theme.text }}>
               I fell in love with programming and I have at least learnt
               something, I think…{" "}
               <span className="wave" role="img" aria-labelledby="wave">
