@@ -25,7 +25,7 @@ function Intro(props) {
               <i>
                 <b style={{ color: theme.accentColor }}>
                   {" "}
-                  C++, Javascript and Python.{" "}
+                  C++, Java and Javascript.{" "}
                 </b>
               </i>
               <br />
