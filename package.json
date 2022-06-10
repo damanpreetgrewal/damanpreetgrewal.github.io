@@ -1,14 +1,14 @@
-{  
-  "homepage": "https://grewaldpsg.github.io/",
+{
   "private": true,
-  "name": "grewaldpsgportfolio",
-  "version": "1.0.0",  
+  "name": "damanpreetgrewalportfolio",
+  "version": "1.0.0",
+  "homepage": "https://damanpreetgrewal.github.io/",
   "scripts": {
     "build": "react-scripts build",
-    "eject": "react-scripts eject",
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject",
+    "start": "react-scripts start",
     "test": "react-scripts test"
   },
   "dependencies": {

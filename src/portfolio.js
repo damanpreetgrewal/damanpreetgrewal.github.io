@@ -10,7 +10,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Damanpreet Singh Grewal",
+  title2: "Damanpreet Grewal",
   logo_name: "damanpreet.grewal()",
   nickname: "dpsg",
   full_name: "Damanpreet Singh Grewal",
@@ -22,13 +22,10 @@ const greeting = {
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/grewaldpsg/",
+  github: "https://github.com/damanpreetgrewal/",
   linkedin: "https://www.linkedin.com/in/damanpreet-singh-grewal/",
   gmail: "damanpreetsinghgrewal92@gmail.com",
   gitlab: "https://gitlab.com/damanpreetsinghgrewal92/",
-  facebook: "https://www.facebook.com/damanpreetsingh.grewal/",
-  twitter: "https://twitter.com/Damanpreet92/",
-  instagram: "https://www.instagram.com/damanpreet.g/",
 };
 
 const skills = {
@@ -320,11 +317,11 @@ const certifications = {
     },
     {
       title: "Hack20",
-      subtitle: "Flutter International Hackathon",
+      subtitle: "Flutter Hackathon",
       logo_path: "flutter.png",
       certificate_link:
         "https://drive.google.com/file/d/1hi--w92uVtuPd5szjQMQ9WOEO9zzQ55H/view?usp=sharing",
-      alt_name: "Flutter International Hackathon",
+      alt_name: "Flutter Hackathon",
       color_code: "#2AAFED",
     },
     {
@@ -493,7 +490,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Vanilla JS and React Project. Below are some of my projects.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Vanilla JS and React Projects. Below are some of my projects.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -519,7 +516,7 @@ const projects = {
     {
       id: "0",
       name: "react-twitter-clone",
-      url: "https://github.com/grewaldpsg/react-twitter-clone",
+      url: "https://github.com/damanpreetgrewal/react-twitter-clone",
       description:
         "A React Twitter Clone UI with basic functionality such as make a Tweet.Embedded Profile Tweets and Share on Twitter.",
       languages: [
@@ -544,7 +541,7 @@ const projects = {
     {
       id: "1",
       name: "top-crypto-gainers",
-      url: "https://github.com/grewaldpsg/top-crypto-gainers",
+      url: "https://github.com/damanpreetgrewal/top-crypto-gainers",
       description:
         "A top high price changed crypto coins wring 24 hours A sound-classifier webapp made with ReactJS + TensorflowJS.",
       languages: [
@@ -569,7 +566,7 @@ const projects = {
     {
       id: "2",
       name: "personal-portfolio",
-      url: "https://github.com/grewaldpsg/personal-portfolio",
+      url: "https://github.com/damanpreetgrewal/personal-portfolio",
       description:
         "A simple command line interface based quiz app to know more about me :).",
       languages: [
@@ -586,7 +583,7 @@ const projects = {
     {
       id: "3",
       name: "node_express_crud_api_starter",
-      url: "https://github.com/grewaldpsg/node_express_crud_api_starter",
+      url: "https://github.com/damanpreetgrewal/node_express_crud_api_starter",
       description: "Simple NodeJS Express CRUD Operations API starter.",
       languages: [
         {
@@ -597,8 +594,8 @@ const projects = {
     },
     {
       id: "4",
-      name: "grewaldpsg.github.io",
-      url: "https://github.com/grewaldpsg/grewaldpsg.github.io",
+      name: "damanpreetgrewal.github.io",
+      url: "https://github.com/damanpreetgrewal/damanpreetgrewal.github.io",
       description:
         "A Personal Portfolio Website that showcases my work and experience. It is hosted on Github Pages.",
       languages: [
@@ -623,7 +620,7 @@ const projects = {
     {
       id: "5",
       name: "Netflix top series",
-      url: "https://github.com/grewaldpsg/netflix-top-series",
+      url: "https://github.com/damanpreetgrewal/netflix-top-series",
       description: "List of Top Netflix Series which is deployed to vercel.",
       languages: [
         {
@@ -647,7 +644,7 @@ const projects = {
     {
       id: "6",
       name: "COVID-19 Tracker",
-      url: "https://github.com/grewaldpsg/Covid19TrackerReact",
+      url: "https://github.com/damanpreetgrewal/Covid19TrackerReact",
       description: "Simple Covid-19 Tracker made using React.",
       languages: [
         {
@@ -671,7 +668,7 @@ const projects = {
     {
       id: "7",
       name: "Food Order Static Website",
-      url: "https://github.com/grewaldpsg/Food-Order-Website-PHP",
+      url: "https://github.com/damanpreetgrewal/Food-Order-Website-PHP",
       description:
         "A simple static website related to food restaurants service. this is reasponsive as well.",
       languages: [
